@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login dengan field email dikosongkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fefe6fa2-8900-420e-920b-3efb414525e8</testCaseGuid>
+</TestCaseEntity>
